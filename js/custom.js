@@ -16,7 +16,7 @@ myHeader.height($(window).height());
 
 // adjust slider item Center
 $('.slider').each(function (){
-    $(this).css('paddingTop', ($(window).height() - $('.slider .ms').height()) /2);
+    $(this).CSS('paddingTop', ($(window).height() - $('.slider .ms').height()) /2);
 
 });
 
